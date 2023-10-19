@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\bin\Debug\net6.0\SecondProject.exe
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\bin\Debug\net6.0\SecondProject.deps.json
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\bin\Debug\net6.0\SecondProject.runtimeconfig.json
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\bin\Debug\net6.0\SecondProject.dll
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\bin\Debug\net6.0\SecondProject.pdb
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\SecondProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\SecondProject.dll
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\refint\SecondProject.dll
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\SecondProject.pdb
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\SecondProject.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\HseHomeWork\SecondProject\obj\Debug\net6.0\ref\SecondProject.dll
